@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 * [notion](https://www.notion.so/First-page-3ac0e2d2021d4955be39f959a871f73a)
-* [google drive]()
+* [google drive](https://drive.google.com/drive/folders/1Qh3CRw49q5bmqh7ZorgNh2MoyWwTDQjv?usp=sharing)
+* [github page](https://1cg2cg3cg.github.io/)
 
-### Start the study to be a software engineer at 2021.1.1
 <!--
 **1cg2cg3cg/1cg2cg3cg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
